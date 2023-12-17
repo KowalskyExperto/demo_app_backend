@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "demo_app_backend",
+  "version": "1.0.0",
+  "description": "Backend for app demo experto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "KowalskyExperto",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
